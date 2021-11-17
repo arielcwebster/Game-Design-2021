@@ -8,6 +8,9 @@ p {
     margin: 0 20%;
    
 }
+h1 {
+  font-size: 40px;
+}
 
 a:link {
   color: blue;
