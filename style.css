@@ -9,14 +9,13 @@ p {
    
 }
 h1 {
-  font-size: 40px;
+  font-size: 30px;
 }
 
 a:link {
   color: blue;
   font-size:30px;
   text-align: center;
-  text-transform:uppercase;
   background-color: transparent;
   text-decoration: none;
 }
